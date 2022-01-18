@@ -1,0 +1,1 @@
+select * from lab_view.positive_tab order by x limit 15;

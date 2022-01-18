@@ -1,0 +1,1 @@
+select x, y from lab_view.fn order by x limit 10;

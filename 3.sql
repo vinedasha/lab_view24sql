@@ -1,0 +1,1 @@
+alter table fn add constraint pk_x primery key (x);

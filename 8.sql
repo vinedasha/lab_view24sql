@@ -1,0 +1,1 @@
+select x, y FROM lab_view.positive order by x limit 20;

@@ -1,0 +1,1 @@
+explain analyze select * from lab_view.fn_view;

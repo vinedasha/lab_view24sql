@@ -1,0 +1,1 @@
+create table fn(x float, y float); 
